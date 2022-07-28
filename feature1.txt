@@ -1,1 +1,2 @@
 Added new feature Two 222
+Hello I am editing my Branch2 the same file that is exisiting in Branch1:
